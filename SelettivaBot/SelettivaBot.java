@@ -13,12 +13,14 @@ import java.util.Date;
 
 public class SelettivaBot extends TelegramLongPollingBot {
 
-    private long idAmministratore = 22416164 ;
+    /** cambiato **/ 
+    private long idAmministratore = 12345 ;
 
     /** GRUPPO SELETTIVE ROVERETO **/
-    private long chatSelettiveRovereto = Long.parseLong("-1001321943362");
-    /** GRUPPO SELETTIVE MAGAZZINO **/
-    private  long idMagazzino = 66519897 ;
+    /** cambiato **/ 
+    private long chatSelettiveRovereto = Long.parseLong("12345");
+    /** cambiato **/ 
+    private  long idMagazzino = 12345 ;
 
 
     // ------------UPDATE-----------
