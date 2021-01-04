@@ -99,21 +99,21 @@ public class SelettivaBot extends TelegramLongPollingBot {
     /** TEST **/
 /*
     public String getBotUsername() {
-        return "MoganoTest_bot";
+        return "abc";
     }
 
     // TOKEN
     public String getBotToken() {
-        return "981086877:AAFBWOBb7lpbXXszL3R-QXPvJ4wyNxfo6LI";
+        return "1234";
     }
 
 
     /** DATI DI RIFERIMENTO BOT **/
     public String getBotUsername() {
-        return "selettivabot";
+        return "abc";
     }
     public String getBotToken() {
-        return "582433746:AAEcfXlt9uIU38oPIzW7uA2G-S2sH9dpGWI";
+        return "1234";
     }
 
 
